@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="333"/>
+  <img src="https://lottiefiles.com/63487-programming-computer" width="333"/>
  
 <div id="badges">
   <a href="https://www.instagram.com/https://instagram.com/aleksandra.lesovskaya?r=nametag/">
