@@ -2,7 +2,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://lottiefiles.com/63487-programming-computer" width="333"/>
+  <img src="https://assets8.lottiefiles.com/packages/lf20_w51pcehl.json" width="333"/>
  
 <div id="badges">
   <a href="https://www.instagram.com/https://instagram.com/aleksandra.lesovskaya?r=nametag/">
