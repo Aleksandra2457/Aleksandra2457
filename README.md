@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Aleksandra! 👩🏻
+### Hi there 👋 My name is Aleksandra! 
 
 
 <div id="header" align="center">
@@ -16,13 +16,13 @@
    
   ---
   
-### 👨‍💻 About Me :
+### 👩🏻 About Me :
 
-  👋 I am a student swift Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia. 
-  - 🌱 
-  - 🤝 
-  - 👀 
-  - ⚡ 
+  - 👩🏻‍💻 I am a student Swift Developer from Russia. 
+  - 🏔 I follow active lifestyle.
+  - 💻 I'm fond of devices, mobile and web development.
+  - ✨ In my free time I improve my english and programming skills.
+ 
 
   ---
 ### 🛠️ Languages and Tools :
