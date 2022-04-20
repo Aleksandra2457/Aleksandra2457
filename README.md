@@ -1,15 +1,12 @@
 ### Hi there 👋 My name is Aleksandra! 
 
-
-<div id="header" align="center">
-  <img src="https://assets8.lottiefiles.com/packages/lf20_w51pcehl.json" width="333"/>
- 
+### Connect with me:
 <div id="badges">
   <a href="https://www.instagram.com/https://instagram.com/aleksandra.lesovskaya?r=nametag/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
+    <img width="32px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
   </a>
   <a href="https://t.me/Aleksandra2457">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
+    <img width="32px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
   </a>
 </div>
    </div>
@@ -23,8 +20,8 @@
   - 💻 I'm fond of devices, mobile and web development.
   - ✨ In my free time I improve my english and programming skills.
  
-
   ---
+  
 ### 🛠️ Languages and Tools :
 
 <div>
