@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Aleksandra! 👩🏻
 
 
 <div id="header" align="center">
