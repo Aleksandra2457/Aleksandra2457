@@ -3,7 +3,7 @@
 ### Connect with me:
 <div id="badges">
   <a href="https://www.instagram.com/https://instagram.com/aleksandra.lesovskaya?r=nametag/">
-    <img width="88px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
+    <img width="92px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagramm Badge"/>
   </a>
   <a href="https://t.me/Aleksandra2457">
     <img width="80px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegramm Badge"/> 
