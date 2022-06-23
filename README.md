@@ -17,7 +17,7 @@
 
   - 👩🏻‍💻 I am a student Swift Developer from Russia. 
   - 🏔 I follow active lifestyle.
-  - 💻 I'm fond of devices, mobile and web development.
+  - 💻 I'm fond of devices and mobile development.
   - ✨ In my free time I improve my english and programming skills.
  
   ---
