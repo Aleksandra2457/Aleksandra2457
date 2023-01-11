@@ -32,7 +32,8 @@
   <img src="https://avatars.githubusercontent.com/u/7774181?s=200&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" title="Realm" alt="Realm" width="40" height="40"/>&nbsp;
   <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
-  
+  <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://www.gstatic.com/mobilesdk/160503_mobilesdk/logo/2x/firebase_28dp.png" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   
 </div>
