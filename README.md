@@ -31,6 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7774181?s=200&v=4" title="Alamofire" alt="Alamofire" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/7575099?s=200&v=4" title="Realm" alt="Realm" width="40" height="40"/>&nbsp;
-  <img src="[https://avatars.githubusercontent.com/u/7575099?s=200&v=4](https://yandex.ru/images/search?from=tabbar&text=значок%20языка%20dart&pos=15&img_url=http%3A%2F%2Fmedia.slid.es%2Fuploads%2F19610%2Fimages%2F7182743%2Fpasted-from-clipboard.png&rpt=simage&lr=213)" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   
 </div>
